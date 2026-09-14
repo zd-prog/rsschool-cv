@@ -1,5 +1,4 @@
 # rsschool-cv
 
-[Ссылка на CV](cv.md)
-
-[Ссылка на деплой](https://zd-prog.github.io/rsschool-cv/)
+[CV Markdown](https://zd-prog.github.io/rsschool-cv/cv)
+[CV HTML](https://zd-prog.github.io/rsschool-cv/)
